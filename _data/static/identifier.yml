@@ -1,9 +1,9 @@
-lang: es
-domain: domain.gov
+lang: it
+domain: intranet.18f.it
 masthead:
   label:
     content:
-      en: Agency identifier
+      en: Intranet Centrale
       es: Identificador de la agencia
   description:
     label:

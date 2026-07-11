@@ -1,10 +1,10 @@
-title: This is the site title
-description: This is the site description.
+title: Gabriel Jones
+description: Benvenuti nel sito di Gabriel Jones, notizie e documenti provvenienti dall'intranet centrale.
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github_info:
-  organization: 18F
+  organization: gabrielmatteojones
   repository: uswds-jekyll
   default_branch: main
 
